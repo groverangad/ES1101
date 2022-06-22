@@ -57,6 +57,7 @@ b=int(input("enter second number here"))
 diff=bin(a^b)
 
 flipped_bits= diff.count(1)
+print(flipped_bits)
 
 
 
